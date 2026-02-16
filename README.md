@@ -1,17 +1,20 @@
-# Project Title
+# My AI Chatbot
 
-Simple overview of use/purpose.
+We are creating an AI Chatbot that can communicate with the user.
+
+Author: Anderson Kho: https://github.com/andersonkho 
+
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+We are making an AI chatbot that will be available to communicate with the user. The AI will be able to answer questions such as 1+1=2 and have a conversation with the person such as what their favourite movie or book is. 
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* We are going to use Flask, Chatterbot and bootstrap.
+* 
 
 ### Installing
 
@@ -50,7 +53,7 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU GPL v3.0 License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
