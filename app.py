@@ -33,6 +33,9 @@ CRISIS_KEYWORDS = [
     "dont want to live",
     "don't want to live",
     "want to die",
+    "I love Mango Phonk",
+    "I love mango phonk",
+    "i love mango phonk",
 ]
 
 CRISIS_RESPONSE = """I'm concerned about what you've shared. Please know that you're not alone.
